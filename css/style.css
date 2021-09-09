@@ -1,0 +1,67 @@
+body{
+    font-family: "Open_sans";
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    
+    background-image: url("../image/section1-bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.nav_bar{
+    align-items: center;
+    padding-top: 15px;
+}
+.flax{
+    display: flex;
+}
+.logo{
+    width: 220px;
+    
+}
+.nav_img{
+    margin-right: auto;
+}
+.list{
+    width: 650px;
+    justify-content: space-between;
+    margin-right:auto ;
+}
+.bar_list{
+    width: 100px;
+    justify-content: space-between;
+}
+.bar_item{
+    list-style: none;
+}
+.item{
+    list-style: none;
+}
+#tables{
+    align-items: center;
+    position: absolute;
+    left: 22%;
+}
+.tab{ 
+    color: black;
+    text-align: center;
+    width: 800px;
+    margin-top: 80px;
+
+}
+.types{
+  
+ background-color:rgb(107, 105, 105);
+ opacity: 0.5;
+ padding-bottom: 20px;
+}
+.start
+{
+    height: 30px;
+}
+
